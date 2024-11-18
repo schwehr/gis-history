@@ -15,11 +15,13 @@ SPDX-License-Identifier: MIT
 * [Cretaceous quiet zone](https://en.wikipedia.org/wiki/Geomagnetic_reversal) \- [C34n](https://en.wikipedia.org/wiki/List_of_geomagnetic_reversals)  
 * KT Boundary   
 * 0.780 mya [Brunhes–Matuyama reversal](https://en.wikipedia.org/wiki/Brunhes%E2%80%93Matuyama_reversal) \- [List of geomagnetic reversals](https://en.wikipedia.org/wiki/List_of_geomagnetic_reversals)  
-* [Plumb bob](https://en.wikipedia.org/wiki/Plumb_bob) used in ancient Egypt  
+* [Plumb bob](https://en.wikipedia.org/wiki/Plumb_bob) used in ancient Egypt
+* 206 BC \- [Compass](https://en.wikipedia.org/wiki/Compass) invented - Not used for navigation until the 11th century.
 * \~140 BC \- [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) \- developed trigonometry and some spherical trigonometry  
 * 100-200 BC \- [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) \- first analog computer  
 * 46 BC \- [Julian Calendar](https://en.wikipedia.org/wiki/Julian_calendar) proposed  
-* 0 \- [Common Era (CE)](https://en.wikipedia.org/wiki/Common_Era) start / [Anno Domini (AD)](https://en.wikipedia.org/wiki/Anno_Domini) start  
+* 0 \- [Common Era (CE)](https://en.wikipedia.org/wiki/Common_Era) start / [Anno Domini (AD)](https://en.wikipedia.org/wiki/Anno_Domini) start
+* 106 CE \- [Paper](https://en.wikipedia.org/wiki/Paper) making process
 * 347 CE \- [Earliest known oil well](https://en.wikipedia.org/wiki/Oil_well)  
 * 1490 \- [Leonardo da Vinci](https://en.wikipedia.org/wiki/Sonar) detecting ships by underwater sound  
 * 1551 \- [Plane table](https://en.wikipedia.org/wiki/Plane_table) earliest mention  
