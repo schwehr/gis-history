@@ -378,7 +378,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2013 \- [All the Ships](http://youtu.be/MT7cd4M9vzs) \- Google I/O talk about Geospatial in Google Cloud  
 * 2013 \- Earth Engine Timelapse first release  
 * 2013-03 \- [What3Words](https://en.wikipedia.org/wiki/What3words)  
-* 2013-06 \- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) first commit   
+* 2013-06 \- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) first commit (as mapbox-gl-js)  
 * 2013-06 \- [geopandas](https://github.com/geopandas/geopandas) first commit  
 * 2013-08 \- [xarray](https://github.com/pydata/xarray) first commit  
 * 2014 \- [WorldView-3](https://en.wikipedia.org/wiki/WorldView-3) satellite launch  
@@ -438,5 +438,5 @@ SPDX-License-Identifier: CC0-1.0
 * 2024-08 \- [STAC Spec 1.1.0](https://github.com/radiantearth/stac-spec/commit/590e39270f39646c5a7262e56e39e267eac0a7bb)  
 * 2024-08 \- [STAC GeoParquet](https://x.com/cloudnativegeo/status/1829529922618130729)  
 * 2024-09 \- [EE Python client version 1.0 launched](https://github.com/google/earthengine-api/releases/tag/v1.0.0)  
-* 2024-10 \- [https://earthmover.io/blog/icechunk/](https://earthmover.io/blog/icechunk/) released  
+* 2024-10 \- [IceChunk](https://earthmover.io/blog/icechunk/) released  
 * 2024-11 \- [Mapping the ionosphere with millions of phones](https://doi.org/10.1038/s41586-024-08072-x)
