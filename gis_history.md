@@ -1,4 +1,4 @@
-SPDX-License-Identifier: MIT
+SPDX-License-Identifier: CC0-1.0
 
 * 13.8 Ga \- [Big bang](https://en.wikipedia.org/wiki/Big_Bang) / [Age of the Universe](https://en.wikipedia.org/wiki/Age_of_the_universe)  
 * Big bang \+ 300 kya \- [Cosmic microwave background (CMB)](https://en.wikipedia.org/wiki/Cosmic_microwave_background) source  
