@@ -240,7 +240,8 @@ SPDX-License-Identifier: CC0-1.0
 * 1995 \- [Exchangeable image file format (Exif)](https://en.wikipedia.org/wiki/Exif) initial release  
 * 1995 \- [NumPy](https://en.wikipedia.org/wiki/NumPy) called “Numeric” at the time  
 * 1995 \- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) first released  
-* 1995 \- [Secure Shell (ssh)](https://en.wikipedia.org/wiki/Secure_Shell) first introduced  
+* 1995 \- [Secure Shell (ssh)](https://en.wikipedia.org/wiki/Secure_Shell) first introduced
+* 1995 \- [GeoTIFF](https://www.tandfonline.com/doi/abs/10.1080/014311697218340) was published on the internet for the first time
 * 1995 \- [Perforce](https://en.wikipedia.org/wiki/Perforce) founded \- predecessor to [Google Piper](https://youtu.be/W71BTkUbdqE?si=ugYUF2pn02CBAajR)  
 * 1996 \- [Extensible Markup Language (XML)](https://en.wikipedia.org/wiki/XML)  started  
 * 1996 \- [US National Spatial Data Infrastructure (NSDI)](https://en.wikipedia.org/wiki/Spatial_data_infrastructure) (possibly 1993 by Bill Clinton?)  
