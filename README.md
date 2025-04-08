@@ -288,7 +288,8 @@ SPDX-License-Identifier: CC0-1.0
 * 2000 \- [Geography Markup Language (GML)](https://en.wikipedia.org/wiki/Geography_Markup_Language) initial release  
 * 2000 \- [Hydrographic Surveys Specifications and Deliverables (HSSD)](https://www.nauticalcharts.noaa.gov/publications/docs/standards-and-requirements/specs/HSSD_2022.pdf) from NOAA first released  
 * 2000 \- [Information Visualization: Perception for Design](https://books.google.com/books/about/Information_Visualization.html?id=qFmS95vf6H8C&source=kp_book_description) by [Colin Ware](https://en.wikipedia.org/wiki/Colin_Ware)  
-* 2000 \- [Coin3D](https://en.wikipedia.org/wiki/Open_Inventor) OpenInventor clone started  
+* 2000 \- [Coin3D](https://en.wikipedia.org/wiki/Open_Inventor) OpenInventor clone started
+* 2000 \- [R](https://en.wikipedia.org/wiki/R_(programming_language)) Version 1.0.0 released
 * 2001 \- [SciPy](https://en.wikipedia.org/wiki/SciPy)  
 * 2001 \- [SkyTruth](https://en.wikipedia.org/wiki/SkyTruth) founded  
 * 2001 \- [Creative Commons License (CCL)](https://en.wikipedia.org/wiki/Creative_Commons_license) started  
@@ -311,7 +312,8 @@ SPDX-License-Identifier: CC0-1.0
 * 2003 \- [NASA WorldWind](https://en.wikipedia.org/wiki/NASA_WorldWind) first release  
 * 2003 \- [Tableau Software](https://en.wikipedia.org/wiki/Tableau_Software) founded  
 * 2003 \- [EMACS Org mode](https://en.wikipedia.org/wiki/Org-mode) initial release  
-* 2003 \- [US Commercial Remote Sensing Space Policy](https://www.space.commerce.gov/policy/u-s-commercial-remote-sensing-space-policy/) signed into law  
+* 2003 \- [US Commercial Remote Sensing Space Policy](https://www.space.commerce.gov/policy/u-s-commercial-remote-sensing-space-policy/) signed into law
+* 2003 \- [rgdal](https://github.com/cran/rgdal) first published on [CRAN](https://cran.r-project.org/) 
 * 2004 \- [Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami) 9.2–9.3 Mw  
 * 2004 \- [Apache License 2.0](https://en.wikipedia.org/wiki/Apache_License)  
 * 2004 \- [Open Street Map (OSM)](https://en.wikipedia.org/wiki/OpenStreetMap)  
