@@ -250,7 +250,8 @@ SPDX-License-Identifier: CC0-1.0
 * 1996 \- [NASA Ames Stereo Pipeline starts](https://vislab-ccom.unh.edu/~schwehr/papers/schwehr-etal-vda05.pdf)  
 * 1996 \- [EGM96](https://en.wikipedia.org/wiki/Earth_Gravitational_Model)  
 * 1996 \- [MapQuest](https://en.wikipedia.org/wiki/MapQuest) launched  
-* 1996 \- [Feature Manipulation Engine (FME)](https://en.wikipedia.org/wiki/FME_\(software\)) initial release  
+* 1996 \- [Feature Manipulation Engine (FME)](https://en.wikipedia.org/wiki/FME_\(software\)) initial release
+* 1996 \- [Computational Geometry Algorithms Library (CGAL)](https://en.wikipedia.org/wiki/CGAL) project founded
 * 1997 \- [Kyle-Bingamon Amendment](https://en.wikipedia.org/wiki/Kyl%E2%80%93Bingaman_Amendment#:~:text=The%20Kyl%E2%80%93Bingaman%20Amendment%20\(KBA,outside%20of%20the%20United%20States.) limiting satellite imagery of Israel  
 * 1997 \- [Virtual Reality Markup Language (VRML)](https://en.wikipedia.org/wiki/VRML)  
 * 1997 \- [X3D](https://en.wikipedia.org/wiki/X3D) Successor to VRML  
