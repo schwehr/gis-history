@@ -296,6 +296,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2001 \- [Creative Common](https://en.wikipedia.org/wiki/Creative_Commons) founded  
 * 2001 \- [IPython](https://en.wikipedia.org/wiki/IPython) initial release  
 * 2001 \- [Mac OSX](https://en.wikipedia.org/wiki/MacOS) initial release  
+* 2001 \- [GeoServer](https://en.wikipedia.org/wiki/GeoServer) initial release  
 * 2002 \- [Geometry Engine, Open Source (GEOS)](https://github.com/libgeos/geos) aka libgeos first commit.  
 * 2002 \- [Undersea with GIS](https://books.google.com/books/about/Undersea_with_GIS.html?id=yVCpihbME1wC&source=kp_book_description) book by Dawn J. Wright  
 * 2002 \- [AIS Mandated](https://en.wikipedia.org/wiki/Automatic_identification_system) for large ships  
