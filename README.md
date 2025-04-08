@@ -264,7 +264,8 @@ SPDX-License-Identifier: CC0-1.0
 * 1998 \- [Google](https://en.wikipedia.org/wiki/Google) founded  
 * 1998 \- [M.1371-0](https://www.itu.int/rec/R-REC-M.1371-0-199811-S/en) first specification of the Automatic Identification System (AIS) for ships  
 * 1998 \- [Yahoo\! Maps](https://en.wikipedia.org/wiki/Yahoo!_Maps) launched  
-* 1998 \- [Generic Sensor Format (GSF)](https://en.wikipedia.org/wiki/Generic_sensor_format) for sonar \- baseline version  
+* 1998 \- [Generic Sensor Format (GSF)](https://en.wikipedia.org/wiki/Generic_sensor_format) for sonar \- baseline version
+* 1998 \- [Manifold System released](https://manifold.net/doc/mfd8/about_manifold_system.htm) 
 * 1999 \- [libgeotiff](https://github.com/OSGeo/libgeotiff) first commit  
 * 1999 \- [BlackBerry](https://en.wikipedia.org/wiki/BlackBerry) first released  
 * 1999 \- GIS Day starts  
