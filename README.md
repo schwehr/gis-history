@@ -321,6 +321,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2005 \- [Submarine USS San Francisco](https://en.wikipedia.org/wiki/USS_San_Francisco_\(SSN-711\)) grounds on a sea mount  
 * 2005 \- [git initial release](https://en.wikipedia.org/wiki/Git)  
 * 2005 \- [Google Maps](https://en.wikipedia.org/wiki/Google_Maps) launched  
+* 2005 \- [Mapping Hacks](https://www.oreilly.com/library/view/mapping-hacks/0596007035/) from O'Reilly books released
 * 2006 \- [Fall AGU virtual globes session](https://www.gearthblog.com/blog/archives/2006/12/virtual_globes_sessi.html) organized by John Bailey  
 * 2006 \- [OpenLayers](https://en.wikipedia.org/wiki/OpenLayers) initial release  
 * 2006 \- [NOAA Environmental Response Management Application (ERMA)](https://response.restoration.noaa.gov/resources/maps-and-spatial-data/environmental-response-management-application-erma) started  
