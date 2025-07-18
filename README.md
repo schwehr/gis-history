@@ -179,6 +179,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1984 \- [NMEA\_0183](https://en.wikipedia.org/wiki/NMEA_0183) first released  
 * 1984 \- [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84) / [Earth Gravitational Model 1984 (EGM84)](https://en.wikipedia.org/wiki/Earth_Gravitational_Model)  
 * 1984 \- [Apple Macintosh](https://en.wikipedia.org/wiki/Mac_\(computer\)) initial release  
+* 1984-03 \- [Landsat-5](https://en.wikipedia.org/wiki/Landsat_5) launched - will become the longest serving Earth observation satellite, becoming [decomissioned](https://www.usgs.gov/landsat-missions/final-journey-landsat-5-decommissioning-story) 29 years later in 2013
 * 1985 \- [GEOdetic SATellite (GEOSAT)](https://en.wikipedia.org/wiki/Geosat) launched  
 * 1985 \- [Cellular telephone](https://en.wikipedia.org/wiki/Mobile_telephony) first introduced  
 * 1985 \- [Intergraph](https://en.wikipedia.org/wiki/Intergraph) IGDS CAD based GIS  
@@ -291,6 +292,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2000 \- [Information Visualization: Perception for Design](https://books.google.com/books/about/Information_Visualization.html?id=qFmS95vf6H8C&source=kp_book_description) by [Colin Ware](https://en.wikipedia.org/wiki/Colin_Ware)  
 * 2000 \- [Coin3D](https://en.wikipedia.org/wiki/Open_Inventor) OpenInventor clone started
 * 2000 \- [R](https://en.wikipedia.org/wiki/R_(programming_language)) Version 1.0.0 released
+* 2000-11 \- [EO-1](https://en.wikipedia.org/wiki/Earth_Observing-1) satellite launched, carrying the Hyperion hyperspectral instrument, which will later release some of the first open hyperspectral data
 * 2001 \- [SciPy](https://en.wikipedia.org/wiki/SciPy)  
 * 2001 \- [SkyTruth](https://en.wikipedia.org/wiki/SkyTruth) founded  
 * 2001 \- [Creative Commons License (CCL)](https://en.wikipedia.org/wiki/Creative_Commons_license) started  
@@ -315,6 +317,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2003 \- [EMACS Org mode](https://en.wikipedia.org/wiki/Org-mode) initial release  
 * 2003 \- [US Commercial Remote Sensing Space Policy](https://www.space.commerce.gov/policy/u-s-commercial-remote-sensing-space-policy/) signed into law
 * 2003 \- [rgdal](https://github.com/cran/rgdal) first published on [CRAN](https://cran.r-project.org/) 
+* 2003-01 \- [ICESat](https://en.wikipedia.org/wiki/ICESat) spaceborne lidar mission launched
 * 2004 \- [Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami) 9.2–9.3 Mw  
 * 2004 \- [Apache License 2.0](https://en.wikipedia.org/wiki/Apache_License)  
 * 2004 \- [Open Street Map (OSM)](https://en.wikipedia.org/wiki/OpenStreetMap)  
@@ -418,8 +421,10 @@ SPDX-License-Identifier: CC0-1.0
 * 2018-04 \- [Google ground](https://github.com/google/ground-platform) first commit  
 * 2018-06 \- [PROJ RFC 1](https://github.com/OSGeo/PROJ/blob/2ce6c7a9b1ca44b8a7cfb1acca7ff10c8c616774/docs/source/community/rfc/rfc-1.rst) ratified including [Kurt Schwehr](mailto:schwehr@google.com) on PSC  
 * 2018-06 \- Earth Engine Apps launch  
-* 2018-07 \- [DuckDB](https://en.wikipedia.org/wiki/DuckDB) first commit  
-* 2018-12 \- [MovingPandas](https://github.com/movingpandas/movingpandas) first commit  
+* 2018-07 \- [DuckDB](https://en.wikipedia.org/wiki/DuckDB) first commit
+* 2018-09 \- [ICESat-2](https://en.wikipedia.org/wiki/ICESat-2) satellite launched, as one of the two main spaceborne lidar missions currently in operation (the other being NASA's GEDI)
+* 2018-12 \- [MovingPandas](https://github.com/movingpandas/movingpandas) first commit
+* 2018-12 \- [GEDI](https://en.wikipedia.org/wiki/Global_Ecosystem_Dynamics_Investigation) spaceborne lidar instrument launched
 * 2019 \- Earth Engine Cloud API alpha launched  
 * 2019 \- [Unfolded](https://www.crunchbase.com/organization/unfolded) founded. 2021-05 bought and renamed to [Foursquare Studio](https://en.wikipedia.org/wiki/Foursquare_\(company\))  
 * 2019-01 \- [Zarr spec](https://github.com/zarr-developers/zarr-specs) started  
@@ -436,15 +441,18 @@ SPDX-License-Identifier: CC0-1.0
 * 2021-10 \- [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)  
 * 2021 \- [Cloud Optimized Point Cloud (COPC)](https://copc.io/) specification 1.0  
 * 2022-06 \- [Earth Engine github catalog created](https://github.com/google/earthengine-catalog/commit/7f4a8479f799794c682eb5123ae8499386b04b0e)  
-* 2022-06 \- [Dynamic World](https://blog.google/products/earth/dynamic-world-land-cover-data/) launched  
+* 2022-06 \- [Dynamic World](https://blog.google/products/earth/dynamic-world-land-cover-data/) dynamically updated land cover data launched  
 * 2022-06 \- [Earth Engine GA for commercial use](https://earthengine.google.com/commercial/) in Google Cloud  
+* 2022-07 \- [EMIT](https://earth.jpl.nasa.gov/emit/mission/about/) hyperspectral instrument launched, as the first of NASA's two currently operating hyperspectral missions (the other being PACE)
 * 2022-11 \- [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) first release  
 * 2023-06 \- [Earth Engine github catalog](https://github.com/google/earthengine-catalog) with STAC Jsonnet \+ checker launched [ec323513](https://github.com/google/earthengine-catalog/commit/ec3235137daec43a01c6b065bd9738fbe5134314)  
 * 2023-10 \- [Overture](https://github.com/orgs/OvertureMaps) Maps first commit \-  TODO fact check  
 * 2024 \- [Maxar Legion](https://space.skyrocket.de/doc_sdat/worldview-legion.htm) satellites launched  
+* 2024-02 \- [PACE](https://en.wikipedia.org/wiki/Plankton,_Aerosol,_Cloud,_ocean_Ecosystem) satellite launched, becoming first civilian satellite to provide ~daily hyperspectral coverage of the entire globe
 * 2024-05 \- [Clay 1.0](https://www.linkedin.com/posts/nasonurb_satsummit2024-satellitetechnology-eomodels-activity-7194667484413661184-cLxE/?utm_source=share&utm_medium=member_android) large earth foundation model from [Made with Clay](https://madewithclay.org/) open source, open data  
 * 2024-08 \- [STAC Spec 1.1.0](https://github.com/radiantearth/stac-spec/commit/590e39270f39646c5a7262e56e39e267eac0a7bb)  
 * 2024-08 \- [STAC GeoParquet](https://x.com/cloudnativegeo/status/1829529922618130729)  
 * 2024-09 \- [EE Python client version 1.0 launched](https://github.com/google/earthengine-api/releases/tag/v1.0.0)  
 * 2024-10 \- [IceChunk](https://earthmover.io/blog/icechunk/) released  
 * 2024-11 \- [Mapping the ionosphere with millions of phones](https://doi.org/10.1038/s41586-024-08072-x)
+* 2025-04 \- [Biomass](https://en.wikipedia.org/wiki/Biomass_(satellite)) satellite launched, as the world's first [civilian] P-band radar satellite
