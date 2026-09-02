@@ -60,7 +60,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1890 \- [Peano curve](https://en.wikipedia.org/wiki/Peano_curve) \- first example of a space filling curve
 * 1891 \- [Hilbert curve](https://en.wikipedia.org/wiki/Hilbert_curve)
 * 1894 \- [Brunton compass](https://en.wikipedia.org/wiki/Brunton_compass) patented
-* 1902 \- Atlas Elekctonik founded [https://en.wikipedia.org/wiki/Atlas\_Elektronik](https://en.wikipedia.org/wiki/Atlas_Elektronik)
+* 1902 \- Atlas Elektronik founded [https://en.wikipedia.org/wiki/Atlas\_Elektronik](https://en.wikipedia.org/wiki/Atlas_Elektronik)
 * 1903 \- [General Bathymetric Chart of the Oceans (GEBCO)](https://en.wikipedia.org/wiki/General_Bathymetric_Chart_of_the_Oceans) started
 * 1904 \- [Radar](https://en.wikipedia.org/wiki/Radar) the beginnings of detecting remote metal objects
 * 1907 \- [Radiometric dating](https://en.wikipedia.org/wiki/Radiometric_dating) first published
@@ -94,7 +94,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1948 \- [A Mathematical Theory of Communication](https://en.wikipedia.org/wiki/Information_theory) by [Claude E. Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
 * 1949 \- [Atomic clock](https://en.wikipedia.org/wiki/Atomic_clock) \- ammonia clock
 * 1951 \- [Synthetic-aperture radar](https://en.wikipedia.org/wiki/History_of_synthetic-aperture_radar) idea created
-* 1951 \- [UNIVAC I (Universal Automatic Computer I)](https://en.wikipedia.org/wiki/UNIVAC_I) \- First commercially computer
+* 1951 \- [UNIVAC I (Universal Automatic Computer I)](https://en.wikipedia.org/wiki/UNIVAC_I) \- First commercial computer
 * 1952 \- [Marie Tharp](https://en.wikipedia.org/wiki/Marie_Tharp) map of the sea floor
 * 1954 \- [International System of Units (SI)](https://en.wikipedia.org/wiki/International_System_of_Units#History) started
 * 1954 \- [Kelvin](https://en.wikipedia.org/wiki/Kelvin) added to SI
@@ -169,7 +169,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1982 \- [GLONASS](https://en.wikipedia.org/wiki/GLONASS) Russian GNSS system first launch
 * 1982 \- ESRI Arc/Info released
 * 1982 \- [Revision Control System (RCS)](https://en.wikipedia.org/wiki/Revision_Control_System) first released
-* 1982 \- [Spacecraft, Planet, Instrument, C-matrix, Events, \- and the SPICE system (SPICE)](https://naif.jpl.nasa.gov/naif/spicehistory.html) system created
+* 1982 \- [Spacecraft, Planet, Instrument, C-matrix, Events, \- and the SPICE system](https://naif.jpl.nasa.gov/naif/spicehistory.html) created
 * 1982 \- [United Nations Convention on the Law of the Sea (UNCLOS)](https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea) signed
 * 1983 \- [Db2](https://en.wikipedia.org/wiki/IBM_Db2) first release
 * 1983 \- [Forward and inverse cartographic projection procedures](https://pubs.er.usgs.gov/publication/ofr83625) published by Gerald Evenden \- the start of [PROJ](https://en.wikipedia.org/wiki/PROJ)
@@ -179,7 +179,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1984 \- [NMEA\_0183](https://en.wikipedia.org/wiki/NMEA_0183) first released
 * 1984 \- [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84) / [Earth Gravitational Model 1984 (EGM84)](https://en.wikipedia.org/wiki/Earth_Gravitational_Model)
 * 1984 \- [Apple Macintosh](https://en.wikipedia.org/wiki/Mac_\(computer\)) initial release
-* 1984-03 \- [Landsat-5](https://en.wikipedia.org/wiki/Landsat_5) launched - will become the longest serving Earth observation satellite, becoming [decomissioned](https://www.usgs.gov/landsat-missions/final-journey-landsat-5-decommissioning-story) 29 years later in 2013
+* 1984-03 \- [Landsat-5](https://en.wikipedia.org/wiki/Landsat_5) launched - will become the longest serving Earth observation satellite, becoming [decommissioned](https://www.usgs.gov/landsat-missions/final-journey-landsat-5-decommissioning-story) 29 years later in 2013
 * 1985 \- [GEOdetic SATellite (GEOSAT)](https://en.wikipedia.org/wiki/Geosat) launched
 * 1985 \- [Cellular telephone](https://en.wikipedia.org/wiki/Mobile_telephony) first introduced
 * 1985 \- [Intergraph](https://en.wikipedia.org/wiki/Intergraph) IGDS CAD based GIS
@@ -253,7 +253,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1996 \- [MapQuest](https://en.wikipedia.org/wiki/MapQuest) launched
 * 1996 \- [Feature Manipulation Engine (FME)](https://en.wikipedia.org/wiki/FME_\(software\)) initial release
 * 1996 \- [Computational Geometry Algorithms Library (CGAL)](https://en.wikipedia.org/wiki/CGAL) project founded
-* 1997 \- [Kyle-Bingamon Amendment](https://en.wikipedia.org/wiki/Kyl%E2%80%93Bingaman_Amendment#:~:text=The%20Kyl%E2%80%93Bingaman%20Amendment%20\(KBA,outside%20of%20the%20United%20States.) limiting satellite imagery of Israel
+* 1997 \- [Kyl-Bingamon Amendment](https://en.wikipedia.org/wiki/Kyl%E2%80%93Bingaman_Amendment) limiting satellite imagery of Israel
 * 1997 \- [Virtual Reality Markup Language (VRML)](https://en.wikipedia.org/wiki/VRML)
 * 1997 \- [X3D](https://en.wikipedia.org/wiki/X3D) Successor to VRML
 * 1997 \- [WiFI](https://en.wikipedia.org/wiki/Wi-Fi) introduced
