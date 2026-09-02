@@ -84,7 +84,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1940s \- Development of [radiocarbon dating](https://en.wikipedia.org/wiki/Radiocarbon_dating)
 * 1940 \- [Gee](https://en.wikipedia.org/wiki/Gee_\(navigation\)) radio navigation system
 * 1940 \- [Project 3](https://en.wikipedia.org/wiki/LORAN#Project_3) hyperbolic radio navigation system \- predecessor to Loran
-* 1941 \- [Z3\_(computer)](https://en.wikipedia.org/wiki/Z3_\(computer\))
+* 1941 \- [Z3 (computer)](https://en.wikipedia.org/wiki/Z3_\(computer\))
 * 1942 \- [Decca](https://en.wikipedia.org/wiki/Decca_Navigator_System) radio navigation system.
 * 1942 \- First INS [https://www.ion.org/publications/abstract.cfm?articleID=100716](https://www.ion.org/publications/abstract.cfm?articleID=100716)
 * 1942 \- [LORAN](https://en.wikipedia.org/wiki/LORAN#LORAN) hyperbolic radio navigation system
@@ -146,7 +146,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1974 \- [Federal Information Processing Standards (FIPS)](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards)
 * 1975 \- [Cray-1](https://en.wikipedia.org/wiki/Cray-1) super computer
 * 1976 \- [Hydrographic Manual, 4th edition](https://books.google.com/books?id=jjhWA-7UPDYC&printsec=frontcover&output=html_text)
-* 1977 \- [Multibeam\_echosounder](https://en.wikipedia.org/wiki/Multibeam_echosounder) \- SeaBeam classic is the first commercial multibeam. 1st generation deep sea multibeam
+* 1977 \- [Multibeam echosounder](https://en.wikipedia.org/wiki/Multibeam_echosounder) \- SeaBeam classic is the first commercial multibeam. 1st generation deep sea multibeam
 * 1977 \- [Interactive Data Language (IDL)](https://en.wikipedia.org/wiki/IDL_\(programming_language\))
 * 1977 \- [First map of the entire ocean floor](https://en.wikipedia.org/wiki/Marie_Tharp)
 * 1977 \- [Parsons and Sclater](https://doi.org/10.1029%2Fjb082i005p00803)\- ocean floor bathymetry and heat flow with age
@@ -196,7 +196,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1988 \- [NetCDF](https://en.wikipedia.org/wiki/NetCDF) started
 * 1988 \- [Generic Mapping Tools](https://en.wikipedia.org/wiki/Generic_Mapping_Tools) (GMT; Gravity, Magnetics, Topography) initial release.
 * 1988 \- [Integrated Land and Water Information System (ILWIS)](https://en.wikipedia.org/wiki/ILWIS) first released
-* 1989 \- 2nd generation deepsea multibeam (Hydrosweep DS) ref: [https://en.wikipedia.org/wiki/Multibeam\_echosounder](https://en.wikipedia.org/wiki/Multibeam_echosounder)
+* 1989 \- 2nd generation deep-sea multibeam (Hydrosweep DS) ref: [https://en.wikipedia.org/wiki/Multibeam\_echosounder](https://en.wikipedia.org/wiki/Multibeam_echosounder)
 * 1989 \- [Garmin](https://en.wikipedia.org/wiki/Garmin) founded as ProNav
 * 1989 \- [GNU Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 * 1989 \- [Receiver Independent Exchange Format (RINEX)](https://en.wikipedia.org/wiki/RINEX) for data interchange format for raw satellite navigation system data
@@ -299,7 +299,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2001 \- [PostGIS](https://en.wikipedia.org/wiki/PostGIS) Initial Release
 * 2001 \- [QuickBird](https://en.wikipedia.org/wiki/QuickBird) launched
 * 2001 \- [Keyhole Earthviewer 1.0](https://google.fandom.com/wiki/Google_Earth)
-* 2001 \- [Creative Common](https://en.wikipedia.org/wiki/Creative_Commons) founded
+* 2001 \- [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) founded
 * 2001 \- [IPython](https://en.wikipedia.org/wiki/IPython) initial release
 * 2001 \- [Mac OSX](https://en.wikipedia.org/wiki/MacOS) initial release
 * 2001 \- [GeoServer](https://en.wikipedia.org/wiki/GeoServer) initial release
