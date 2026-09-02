@@ -156,7 +156,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1978 \- [Berkeley Standard Distribution (BSD)](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) first release
 * 1979 \- [CARIS](https://en.wikipedia.org/wiki/Teledyne_CARIS) formed from University of New Brunswick \- Computer Aided Resource Information System
 * 1979 \- [Map Overlay and Statistical System](https://en.m.wikipedia.org/wiki/Map_Overlay_and_Statistical_System)
-* 1979 \- [Get this book in print▼Topological Principles in Cartography](https://books.google.com/books/about/Topological_Principles_in_Cartography.html?id=uzI8AQAAMAAJ) by James Corbett
+* 1979 \- [Topological Principles in Cartography](https://books.google.com/books/about/Topological_Principles_in_Cartography.html?id=uzI8AQAAMAAJ) by James Corbett
 * 1979 \- [Earth Resources Data Analysis System (ERDAS)](https://field-guide.blogspot.com/2009/04/brief-history-of-erdas-imagine.html)
 * 1979 \- [MATLAB](https://en.wikipedia.org/wiki/MATLAB) first released
 * 1979 \- [Network Time Protocol (NTP)](https://en.wikipedia.org/wiki/Network_Time_Protocol)
