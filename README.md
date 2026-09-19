@@ -190,6 +190,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1986 \- [https://en.m.wikipedia.org/wiki/MapInfo\_Pro](https://en.m.wikipedia.org/wiki/MapInfo_Pro)
 * 1986 \- Swedish land Data Bank completed \- first national digital cadaster
 * 1986 \- NOAA Technical Memorandum NMFS-S WFC-60, Determining fish movements from an "archival" tag by [Smith, P., & Goodman, D. (1986)](https://swfsc-publications.fisheries.noaa.gov/publications/TM/SWFSC/NOAA-TM-NMFS-SWFC-60.PDF)
+* 1987 \- [Map projections: A working manual](https://doi.org/10.3133/pp1395), USGS Professional Paper 1395, John P. Snyder
 * 1987 \- [MIT License](https://opensource.com/article/19/4/history-mit-license)
 * 1987 \- [https://en.m.wikipedia.org/wiki/TerrSet](https://en.m.wikipedia.org/wiki/TerrSet) was IDRISI. Named for [Muhammad al-Idrisi](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi)
 * 1987 \- [NASA GCMD Science Keywords](https://www.sciencedirect.com/science/article/pii/S1674987122000536#:~:text=The%20GCMD%20keywords%20came%20about,Major%20and%20Olsen%2C%202003) started
