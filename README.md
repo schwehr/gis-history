@@ -152,6 +152,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1977 \- [Parsons and Sclater](https://doi.org/10.1029%2Fjb082i005p00803)\- ocean floor bathymetry and heat flow with age
 * 1978 \- [Global Positioning System (GPS)](https://en.wikipedia.org/wiki/Global_Positioning_System) first satellite launched
 * 1978 \- TIN,T. K. Peucker, R. J. Fowler, J. J. Little, and D. M. Mark. The triangulated irregular network. In Proc. of the Digital Terrain Models Symp., pages 516-532, St. Louis, MO, 1978\. \[[pdf](https://cartogis.org/docs/proceedings/archive/auto-carto-4-vol-2/pdf/the-triangulated-irregular-network.pdf)\]
+* 1978 \- [NAVSTAR Block 1](https://en.wikipedia.org/wiki/List_of_GPS_satellites) First GPS Satellites launched
 * 1978 \- [TMS5100 first DSP chip \- Speak and Spell](https://en.wikipedia.org/wiki/Texas_Instruments_LPC_Speech_Chips)
 * 1978 \- [Berkeley Standard Distribution (BSD)](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) first release
 * 1979 \- [CARIS](https://en.wikipedia.org/wiki/Teledyne_CARIS) formed from University of New Brunswick \- Computer Aided Resource Information System
@@ -195,6 +196,7 @@ SPDX-License-Identifier: CC0-1.0
 * 1987 \- [https://en.m.wikipedia.org/wiki/TerrSet](https://en.m.wikipedia.org/wiki/TerrSet) was IDRISI. Named for [Muhammad al-Idrisi](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi)
 * 1987 \- [NASA GCMD Science Keywords](https://www.sciencedirect.com/science/article/pii/S1674987122000536#:~:text=The%20GCMD%20keywords%20came%20about,Major%20and%20Olsen%2C%202003) started
 * 1988 \- [NetCDF](https://en.wikipedia.org/wiki/NetCDF) started
+* 1988 \- [Magellan](https://mashable.com/archive/commercial-gps-25-anniversary) releases Magellan Nav 100, first mass-produced consumer GPS. Price: $3,000USD.
 * 1988 \- [Generic Mapping Tools](https://en.wikipedia.org/wiki/Generic_Mapping_Tools) (GMT; Gravity, Magnetics, Topography) initial release.
 * 1988 \- [Integrated Land and Water Information System (ILWIS)](https://en.wikipedia.org/wiki/ILWIS) first released
 * 1989 \- 2nd generation deep-sea multibeam (Hydrosweep DS) ref: [https://en.wikipedia.org/wiki/Multibeam\_echosounder](https://en.wikipedia.org/wiki/Multibeam_echosounder)
@@ -292,9 +294,12 @@ SPDX-License-Identifier: CC0-1.0
 * 2000 \- [Hydrographic Surveys Specifications and Deliverables (HSSD)](https://www.nauticalcharts.noaa.gov/publications/docs/standards-and-requirements/specs/HSSD_2022.pdf) from NOAA first released
 * 2000 \- [Information Visualization: Perception for Design](https://books.google.com/books/about/Information_Visualization.html?id=qFmS95vf6H8C&source=kp_book_description) by [Colin Ware](https://en.wikipedia.org/wiki/Colin_Ware)
 * 2000 \- [Coin3D](https://en.wikipedia.org/wiki/Open_Inventor) OpenInventor clone started
+* 2000 \- [BeiDou](http://en.beidou.gov.cn/) Navigation system launched by China is first competitor to GPS, controlled by US DOD.
 * 2000 \- [R](https://en.wikipedia.org/wiki/R_(programming_language)) Version 1.0.0 released
 * 2000-11 \- [EO-1](https://en.wikipedia.org/wiki/Earth_Observing-1) satellite launched, carrying the Hyperion hyperspectral instrument, which will later release some of the first open hyperspectral data
 * 2001 \- [SciPy](https://en.wikipedia.org/wiki/SciPy)
+* 20001-05-02 \- [Selective Availability](https://www.gps.gov/selective-availability) is ordered disabled by Clinton, allowing civilian access to GPS fixes within 3m instead of 500m or more.
+* 2001-05-03 \- Dave Ulmer places first box in the woods, posts coordinates on Usenet inviting others to find it. This quickly evolves into [Geocaching](https://www.geocaching.com/about/history.aspx), a game now played by millions. 
 * 2001 \- [SkyTruth](https://en.wikipedia.org/wiki/SkyTruth) founded
 * 2001 \- [Creative Commons License (CCL)](https://en.wikipedia.org/wiki/Creative_Commons_license) started
 * 2001 \- [PostGIS](https://en.wikipedia.org/wiki/PostGIS) Initial Release
@@ -321,6 +326,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2003-01 \- [ICESat](https://en.wikipedia.org/wiki/ICESat) spaceborne lidar mission launched
 * 2004 \- [Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami) 9.2–9.3 Mw
 * 2004 \- [Apache License 2.0](https://en.wikipedia.org/wiki/Apache_License)
+* 2004 \- Garmin launches GPSMap 60C[S]/76C[S], the first really popular handheld color GPS.
 * 2004 \- [Open Street Map (OSM)](https://en.wikipedia.org/wiki/OpenStreetMap)
 * 2004 \- [GeoMapApp](https://www.geomapapp.org/WhatsNew.html) 1.1 released \- TODO: Bill Haxby and Bill Ryan initial code in the late 90s.
 * 2004 \- Google acquires Keyhole Inc.
@@ -337,6 +343,7 @@ SPDX-License-Identifier: CC0-1.0
 * 2006 \- [NOAA Environmental Response Management Application (ERMA)](https://response.restoration.noaa.gov/resources/maps-and-spatial-data/environmental-response-management-application-erma) started
 * 2006 \- [Open Source Geospatial Foundation (OSGeo)](https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation) founded
 * 2006 \- [DJI](https://en.wikipedia.org/wiki/DJI) formed to make drones
+* 2006 \- Garmin launches GPSMap 60C[S]x/76C[S]x. Adds SirfStar III correlators 6. Workhorse handhelds for SAR teams for years.
 * 2006 \- [VisionWorkbench](https://github.com/visionworkbench/visionworkbench) initial commit
 * 2006 \- [Committee on the Support for Thinking Spatially (2006)](https://nap.nationalacademies.org/catalog/11019/learning-to-think-spatially), National Academy of Sciences
 * 2007 \- [First Google Earth release](https://googleblog.blogspot.com/2007/04/map-making-so-easy-caveman-could-do-it.html)
@@ -367,12 +374,14 @@ SPDX-License-Identifier: CC0-1.0
 * 2010 \- Kurt Schwehr released the first version of [libais](https://github.com/schwehr/libais) (for DWH spill)
 * 2010 \- [Planet Labs](https://en.wikipedia.org/wiki/Planet_Labs) founded
 * 2010 \- [Mapbox](https://en.wikipedia.org/wiki/Mapbox) founded
+* 2010 \- [http://en.beidou.gov.cn/](https://en.wikipedia.org/wiki/GLONASS), the third competitor to GPS, run by Roscosmos, reaches worldwide coverage.
 * 2010 \- Google paints a [Siemens Star](https://en.wikipedia.org/wiki/Siemens_star) / spoke target on [the roof in Mountain View, CA](https://maps.app.goo.gl/wJrjELN4rjbyvqUn8)
 * 2010 \- [Leaflet](https://github.com/Leaflet/Leaflet) first commit
 * 2011 \- [OpenROV](https://en.wikipedia.org/wiki/OpenROV) started
 * 2011 \- [Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) \- [Fukushima nuclear accident](https://en.wikipedia.org/wiki/Fukushima_nuclear_accident)
 * 2011 \- [Point Data Abstraction Library (PDAL)](https://github.com/PDAL/PDAL) initial release
 * 2011 \- Earth Engine graduates from Google Labs to [google.org](http://google.org)
+* 2011 \- [Galileo] begins launch of European-governed satellite navigatino system
 * 2011 \- [Visible Infrared Imaging Radiometer Suite (VIIRS)](https://en.wikipedia.org/wiki/Visible_Infrared_Imaging_Radiometer_Suite) on Suomi NPP launched
 * 2011 \- [IPython Notebook](https://en.wikipedia.org/wiki/Project_Jupyter) first release
 * 2011 \- [Carto / CartoDB](https://en.wikipedia.org/wiki/Carto_\(company\))
