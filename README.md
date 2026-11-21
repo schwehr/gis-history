@@ -458,7 +458,10 @@ SPDX-License-Identifier: CC0-1.0
 * 2022-11 \- [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) first release
 * 2022-11 \- [CGPM Resolution 4](https://www.bipm.org/en/cgpm-2022/resolution-4) decided to increase the |UT1-UTC| limit by 2035, suspending UTC leap seconds for at least a century
 * 2022-12 \- [Surface Water and Ocean Topography (SWOT)](https://swot.jpl.nasa.gov/) NASA/CNES wide-swath Ka-band radar interferometry (`KaRIn`) satellite launched for the first global survey of surface water and fine-scale ocean surface topography
+* 2023-01 \- [Galileo High Accuracy Service (HAS)](https://www.euspa.europa.eu/newsroom-events/news/galileo-high-accuracy-service-goes-live) Initial Service declared \- first free, global, decimetre-level precise point positioning (PPP) corrections broadcast on Galileo E6-B ([GSC](https://www.gsc-europa.eu/galileo/services/galileo-high-accuracy-service-has))
+* 2023-04 \- [DuckDB Spatial extension](https://duckdb.org/2023/04/28/spatial) introduced \- Simple Features GEOMETRY type, GEOS/PROJ functions, and GDAL-backed I/O in DuckDB ([repo](https://github.com/duckdb/duckdb-spatial))
 * 2023-06 \- [Earth Engine github catalog](https://github.com/google/earthengine-catalog) with STAC Jsonnet \+ checker launched [ec323513](https://github.com/google/earthengine-catalog/commit/ec3235137daec43a01c6b065bd9738fbe5134314)
+* 2023-09 \- [GeoParquet 1.0.0](https://github.com/opengeospatial/geoparquet/releases/tag/v1.0.0) specification released
 * 2023-10 \- [Overture](https://github.com/orgs/OvertureMaps) Maps first commit \-TODO fact check
 * 2024 \- [Maxar Legion](https://space.skyrocket.de/doc_sdat/worldview-legion.htm) satellites launched
 * 2024-02 \- [PACE](https://en.wikipedia.org/wiki/Plankton,_Aerosol,_Cloud,_ocean_Ecosystem) satellite launched, becoming first civilian satellite to provide ~daily hyperspectral coverage of the entire globe
