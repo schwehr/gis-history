@@ -437,13 +437,17 @@ SPDX-License-Identifier: CC0-1.0
 * 2020-04 \- [GeoArrow](https://github.com/geoarrow/geoarrow) started
 * 2020-06 \- [BeiDou-3 (BDS-3)](https://en.wikipedia.org/wiki/BeiDou#BeiDou-3) final satellite launched, completing the global GNSS constellation; [commissioned](https://web.archive.org/web/20261016233645/http://en.beidou.gov.cn/WHATSNEWS/202008/t20200803_21013.html) 2020-07
 * 2020-07 \- NOAA relaxed the [Kyl–Bingaman Amendment](https://en.wikipedia.org/wiki/Kyl%E2%80%93Bingaman_Amendment) resolution limit on US-licensed commercial satellite imagery of Israel from 2.0 m to 0.4 m ground sample distance (GSD) ([85 FR 44059](https://www.govinfo.gov/content/pkg/FR-2020-07-21/pdf/2020-15770.pdf))
-* 2020-11 \- [Sentinel-6 Michael Freilich](https://en.wikipedia.org/wiki/Sentinel-6_Michael_Freilich) ocean radar altimetry satellite launched (joint ESA, EUMETSAT, NASA, and NOAA Copernicus mission with CNES support), continuing the TOPEX/Poseidon and Jason sea-level record
+* 2020-11 \- [Sentinel-6 Michael Freilich](https://en.wikipedia.org/wiki/Sentinel-6_Michael_Freilich) ocean radar altimetry satellite launched, continuing the TOPEX/Poseidon and Jason sea-level record
 * 2020-12 \- [Landsat Collection 2](https://registry.opendata.aws/usgs-landsat/) released by USGS: global Level-2 surface reflectance and temperature back to 1982 as Cloud-Optimized GeoTIFFs (COGs) in commercial cloud storage
 * 2021 \- [Pleiades Neo](https://space.skyrocket.de/doc_sdat/pleiades-neo.htm) satellite launch
 * 2021 \- [geoparquet](https://github.com/opengeospatial/geoparquet) spec first commit
 * 2021 \- [felt.com](http://felt.com) [founded](https://www.linkedin.com/company/feltmaps/about/)
+* 2021-02 - [PMTiles](https://github.com/protomaps/PMTiles) [first commit](https://github.com/protomaps/PMTiles/commit/0a34788a92fe3bf9142ab5afe2c9fde735e60e05) - single-file cloud-native archive format for pyramid-tiled map data
+* 2021-03 - [leafmap](https://github.com/opengeos/leafmap) [first commit](https://github.com/opengeos/leafmap/commit/ab102e901aa63002f1b55f9ca35ea23cc5ab0657)
 * 2021-05 \- [STAC Spec 1.0.0](https://github.com/radiantearth/stac-spec/commit/789e90fba4c7119bc925d26f75f47bacf44c91e6) released
 * 2021-05 \- [TorchGeo](https://github.com/microsoft/torchgeo)
+* 2021-07 - [Google Open Buildings](https://research.google/blog/mapping-africas-buildings-with-satellite-imagery/) of footprints across Africa from satellite imagery [[paper](https://arxiv.org/abs/2107.12283)]
+* 2021-09 - [Landsat 9](https://en.wikipedia.org/wiki/Landsat_9) satellite launched by NASA/USGS carrying the 14-bit Operational Land Imager 2 (OLI-2) and Thermal Infrared Sensor 2 (TIRS-2)
 * 2021-10 \- [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * 2021 \- [Cloud Optimized Point Cloud (COPC)](https://copc.io/) specification 1.0
 * 2022-06 \- [Earth Engine github catalog created](https://github.com/google/earthengine-catalog/commit/7f4a8479f799794c682eb5123ae8499386b04b0e)
