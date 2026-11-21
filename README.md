@@ -450,11 +450,14 @@ SPDX-License-Identifier: CC0-1.0
 * 2021-09 - [Landsat 9](https://en.wikipedia.org/wiki/Landsat_9) satellite launched by NASA/USGS carrying the 14-bit Operational Land Imager 2 (OLI-2) and Thermal Infrared Sensor 2 (TIRS-2)
 * 2021-10 \- [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * 2021 \- [Cloud Optimized Point Cloud (COPC)](https://copc.io/) specification 1.0
+* 2022-04 \- [ITRF2020](https://doi.org/10.1007/s00190-023-01738-w) International Terrestrial Reference Frame realization released by IERS/IGN, adding seasonal station-motion modeling and refined post-seismic deformation models
 * 2022-06 \- [Earth Engine github catalog created](https://github.com/google/earthengine-catalog/commit/7f4a8479f799794c682eb5123ae8499386b04b0e)
 * 2022-06 \- [Dynamic World](https://blog.google/products/earth/dynamic-world-land-cover-data/) dynamically updated land cover data launched
 * 2022-06 \- [Earth Engine GA for commercial use](https://earthengine.google.com/commercial/) in Google Cloud
 * 2022-07 \- [EMIT](https://earth.jpl.nasa.gov/emit/mission/about/) hyperspectral instrument launched, as the first of NASA's two currently operating hyperspectral missions (the other being PACE)
 * 2022-11 \- [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) first release
+* 2022-11 \- [CGPM Resolution 4](https://www.bipm.org/en/cgpm-2022/resolution-4) decided to increase the |UT1-UTC| limit by 2035, suspending UTC leap seconds for at least a century
+* 2022-12 \- [Surface Water and Ocean Topography (SWOT)](https://swot.jpl.nasa.gov/) NASA/CNES wide-swath Ka-band radar interferometry (`KaRIn`) satellite launched for the first global survey of surface water and fine-scale ocean surface topography
 * 2023-06 \- [Earth Engine github catalog](https://github.com/google/earthengine-catalog) with STAC Jsonnet \+ checker launched [ec323513](https://github.com/google/earthengine-catalog/commit/ec3235137daec43a01c6b065bd9738fbe5134314)
 * 2023-10 \- [Overture](https://github.com/orgs/OvertureMaps) Maps first commit \-TODO fact check
 * 2024 \- [Maxar Legion](https://space.skyrocket.de/doc_sdat/worldview-legion.htm) satellites launched
