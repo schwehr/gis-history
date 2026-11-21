@@ -477,4 +477,13 @@ SPDX-License-Identifier: CC0-1.0
 * 2024-12 \- [GenCast](https://doi.org/10.1038/s41586-024-08252-9) published in Nature, a Google DeepMind diffusion-model ensemble weather forecast that beats ECMWF ENS on 97.2% of targets out to 15 days
 * 2024-12 \- [NOAA ends traditional paper nautical charts](https://nauticalcharts.noaa.gov/charts/farewell-to-traditional-nautical-charts.html) in favor of Electronic Navigational Charts (ENCs)
 * 2025-04 \- [Biomass](https://en.wikipedia.org/wiki/Biomass_(satellite)) satellite launched, as the world's first [civilian] P-band radar satellite
+* 2025-07 - [Sentinel-4](https://en.wikipedia.org/wiki/Sentinel-4) launched on [MTG-S1](https://en.wikipedia.org/wiki/Meteosat_Third_Generation), carrying Europe's first geostationary air-quality spectrometer and hyperspectral infrared sounder
+* 2025-07 - [NISAR](https://en.wikipedia.org/wiki/NISAR_(satellite)) (NASA-ISRO Synthetic Aperture Radar) satellite launched, the first free-flying Earth observation satellite carrying dual-frequency L-band and S-band SAR
+* 2025-11 - [Sentinel-6B](https://en.wikipedia.org/wiki/Sentinel-6B) radar altimeter satellite launched, continuing the sea level record started by TOPEX/Poseidon in 1992
+* 2026-01 \- [S-100 ECDIS](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.530(106).pdf) permitted on ships
+ under IMO resolution MSC.530(106) as [IHO S-100](https://iho.int/en/s-100-standards-in-force-0) Phase 1 operational product specifications (including S-101
+ENCs, S-102, S-104, and S-111) enter into force
+* 2026-03 \- [QGIS 4.0](https://blog.qgis.org/2026/03/09/qgis-4.0-norrk%C3%B6ping-is-released/) "Norrköping" released
 * 2026-05 \- [GeoLibre](https://github.com/opengeos/GeoLibre) initial commit
+* 2026-10 \- [Even Rouault leaves GDAL PSC Chair](https://lists.osgeo.org/pipermail/gdal-dev/2026-November/061790.html) and open source in general.
+* 2026-11 \- [GeoParquet 2.0.0](https://github.com/opengeospatial/geoparquet/releases/tag/v2.0.0) released
