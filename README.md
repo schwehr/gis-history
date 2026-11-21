@@ -465,11 +465,16 @@ SPDX-License-Identifier: CC0-1.0
 * 2023-10 \- [Overture](https://github.com/orgs/OvertureMaps) Maps first commit \-TODO fact check
 * 2024 \- [Maxar Legion](https://space.skyrocket.de/doc_sdat/worldview-legion.htm) satellites launched
 * 2024-02 \- [PACE](https://en.wikipedia.org/wiki/Plankton,_Aerosol,_Cloud,_ocean_Ecosystem) satellite launched, becoming first civilian satellite to provide ~daily hyperspectral coverage of the entire globe
+* 2024-03 \- [MethaneSAT](https://en.wikipedia.org/wiki/MethaneSAT) launched
 * 2024-05 \- [Clay 1.0](https://www.linkedin.com/posts/nasonurb_satsummit2024-satellitetechnology-eomodels-activity-7194667484413661184-cLxE/?utm_source=share&utm_medium=member_android) large earth foundation model from [Made with Clay](https://madewithclay.org/) open source, open data
+* 2024-06 \- [GeoPandas 1.0.0](https://github.com/geopandas/geopandas/releases/tag/v1.0.0) released
+
 * 2024-08 \- [STAC Spec 1.1.0](https://github.com/radiantearth/stac-spec/commit/590e39270f39646c5a7262e56e39e267eac0a7bb)
 * 2024-08 \- [STAC GeoParquet](https://x.com/cloudnativegeo/status/1829529922618130729)
 * 2024-09 \- [EE Python client version 1.0 launched](https://github.com/google/earthengine-api/releases/tag/v1.0.0)
 * 2024-10 \- [IceChunk](https://earthmover.io/blog/icechunk/) released
 * 2024-11 \- [Mapping the ionosphere with millions of phones](https://doi.org/10.1038/s41586-024-08072-x)
+* 2024-12 \- [GenCast](https://doi.org/10.1038/s41586-024-08252-9) published in Nature, a Google DeepMind diffusion-model ensemble weather forecast that beats ECMWF ENS on 97.2% of targets out to 15 days
+* 2024-12 \- [NOAA ends traditional paper nautical charts](https://nauticalcharts.noaa.gov/charts/farewell-to-traditional-nautical-charts.html) in favor of Electronic Navigational Charts (ENCs)
 * 2025-04 \- [Biomass](https://en.wikipedia.org/wiki/Biomass_(satellite)) satellite launched, as the world's first [civilian] P-band radar satellite
 * 2026-05 \- [GeoLibre](https://github.com/opengeos/GeoLibre) initial commit
