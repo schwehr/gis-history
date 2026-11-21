@@ -435,6 +435,10 @@ SPDX-License-Identifier: CC0-1.0
 * 2020-03 \- [geemap](https://github.com/gee-community/geemap) [first commit](https://github.com/gee-community/geemap/commit/d8d006d54da3978b8ed8060faeca593868d74904)
 * 2020-04 \- [MS Planetary Computer announced](https://blogs.microsoft.com/blog/2020/04/15/a-healthy-society-requires-a-healthy-planet/)
 * 2020-04 \- [GeoArrow](https://github.com/geoarrow/geoarrow) started
+* 2020-06 \- [BeiDou-3 (BDS-3)](https://en.wikipedia.org/wiki/BeiDou#BeiDou-3) final satellite launched, completing the global GNSS constellation; [commissioned](https://web.archive.org/web/20261016233645/http://en.beidou.gov.cn/WHATSNEWS/202008/t20200803_21013.html) 2020-07
+* 2020-07 \- NOAA relaxed the [Kyl–Bingaman Amendment](https://en.wikipedia.org/wiki/Kyl%E2%80%93Bingaman_Amendment) resolution limit on US-licensed commercial satellite imagery of Israel from 2.0 m to 0.4 m ground sample distance (GSD) ([85 FR 44059](https://www.govinfo.gov/content/pkg/FR-2020-07-21/pdf/2020-15770.pdf))
+* 2020-11 \- [Sentinel-6 Michael Freilich](https://en.wikipedia.org/wiki/Sentinel-6_Michael_Freilich) ocean radar altimetry satellite launched (joint ESA, EUMETSAT, NASA, and NOAA Copernicus mission with CNES support), continuing the TOPEX/Poseidon and Jason sea-level record
+* 2020-12 \- [Landsat Collection 2](https://registry.opendata.aws/usgs-landsat/) released by USGS: global Level-2 surface reflectance and temperature back to 1982 as Cloud-Optimized GeoTIFFs (COGs) in commercial cloud storage
 * 2021 \- [Pleiades Neo](https://space.skyrocket.de/doc_sdat/pleiades-neo.htm) satellite launch
 * 2021 \- [geoparquet](https://github.com/opengeospatial/geoparquet) spec first commit
 * 2021 \- [felt.com](http://felt.com) [founded](https://www.linkedin.com/company/feltmaps/about/)
